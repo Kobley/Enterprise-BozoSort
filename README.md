@@ -1,2 +1,2 @@
-# Enterprise BozoSort
- Enterprise Implementation of BozoSort
+# Enterprise BozoSort™
+ Enterprise Implementation of BozoSort™
